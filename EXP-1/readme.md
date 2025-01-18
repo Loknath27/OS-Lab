@@ -1,2 +1,2 @@
-![uname command output](unmane.png)
+![uname command output](uname.png)
 ![uname command manual](manuname.png)
