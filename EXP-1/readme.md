@@ -3,13 +3,13 @@
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
 ### DATE DATE COMMAND OUTPUT
-![date date command output](date+%D.png)
+![date command output](date+%D.png)
 ### DATE TIME COMMAND OUTPUT
-![date time command output](date+%T.png)
+![date command output](date+%T.png)
 ### DATE YEAR COMMAND OUTPUT
-![date year command output](date+%Y.png)
+![date command output](date+%Y.png)
 ### DATE HOUR COMMAND OUTPUT
-![date hour command output](date+%H.png)
+![date command output](date+%H.png)
 ### DATE COMMAND MANUAL
 ![date command manual](mandate.png)
 ### CAL COMMAND OUTPUT
