@@ -100,9 +100,9 @@
 ### MV OLD NEW COMMAND OUTPUT
 ![mv command output](mv.png)
 ### MV -V OLD NEW COMMAND OUTPUT
-![mv  command output](mv1.png)
+![mv command output](mv1.png)
 ### MV COMMAND MANUAL
-![mv  command manual](manmv.png)
+![mv command manual](manmv.png)
 ### RM FILE COMMAND OUTPUT
 ![rm file command output](rmfile.png)
 ### RM * COMMAND OUTPUT
