@@ -2,7 +2,7 @@
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
-### DATE DATE COMMAND OUTPUT
+### DATE COMMAND OUTPUT
 ![date command output](date+%D.png)
 ### DATE TIME COMMAND OUTPUT
 ![date command output](date+%T.png)
