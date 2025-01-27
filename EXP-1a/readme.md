@@ -1,4 +1,4 @@
-                                         ## 234G1A0583
+##                                         ## 234G1A0583
 # BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
