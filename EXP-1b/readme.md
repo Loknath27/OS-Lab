@@ -29,6 +29,7 @@ simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+### Output of the code for cp
 ![ Program output in console](copy.png)
 > ### Simulation code for ls command
 ```c
@@ -55,6 +56,7 @@ simulate_ls(path);
 return 0;
 }
 ```
+### Output of the code for ls
 ![ Program output in console](ls.png)
 > ### Simulate Grep command
 ```c
@@ -83,5 +85,7 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+### Output of the code for grep
 ![ Program output in console](grep.png)
-###Result:Thus the study and execution of UNIX commands like cp,ls,grep has been completed successfully
+
+### Result:Thus the study and execution of UNIX commands like cp,ls,grep has been completed successfully
