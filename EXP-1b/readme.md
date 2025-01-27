@@ -39,9 +39,10 @@ return EXIT_SUCCESS;
 5) It reads the contents of the source file in chunks of 1024 bytes using fread.
 6) It writes each chunk to the destination file using fwrite.
 7) It writes once the entire source file has been copied, it prints a succes manager
-8) 
+  
 ### Output of the code for cp
 ![ Program output in console](copy.png)
+
 > ### Simulation code for ls command
 ```c
 #include <stdio.h>
@@ -67,8 +68,17 @@ simulate_ls(path);
 return 0;
 }
 ```
+### Interpretion of Program:
+1. The program takes an optimal command-line argument: the path to the directory to list.
+2. If no argument is provided, it defaults to the current working directory (.).
+3. It opens the specified directory using opendir.
+4. If the directory cannot be opened, it prints an error using perror.
+5. It reads the directory entries using readdir and prints the names of the files and directories, executing hidden files.
+6. Finally, it closes the directory using closedir
+
 ### Output of the code for ls
 ![ Program output in console](ls.png)
+
 > ### Simulate Grep command
 ```c
 #include <stdio.h>
@@ -96,6 +106,15 @@ simulate_grep(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+### Interpretation Program:
+1. The program takes two command-line arguments: the paltern to search for and the file name to search in
+2. It opens the specified file in read-only mode("r").
+3. If the file cannot be opened, it prints an error message perror
+4. It reads the file line by line using fgets.
+5. For each line, it checks if the specified pattern exists using strstr.
+6. If the pattern is found, it prints the entire line.
+7. finally, it closes the file using fclose.
+
 ### Output of the code for grep
 ![ Program output in console](grep.png)
 
