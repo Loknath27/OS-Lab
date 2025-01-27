@@ -14,7 +14,7 @@ To implement UNIX operating system calls fork, exec, getpid, exit, wait, close, 
 - **`readdir()`**: Reads individual entries from a directory stream, returning their details.  
 
 These system calls are essential for process management, file handling, and directory navigation in UNIX-like operating systems.
-# SOurce Code:
+# Source Code:
 ```c
 #include <stdio.h>
 #include <stdlib.h>
