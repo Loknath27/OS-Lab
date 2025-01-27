@@ -84,3 +84,4 @@ return EXIT_SUCCESS;
 }
 ```
 ![ Program output in console](grep.png)
+###Result:Thus the study and execution of UNIX commands like cp,ls,grep has been completed successfully
