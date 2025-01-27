@@ -1,7 +1,7 @@
 > ## Simulate UNIX commands like cp, ls, grep, etc
 ### Program Statemnt: To simulate UNIX command like cp,ls,grep
-### Source Code
-### Cp simulate command Source code
+### Source Code:
+> ### Cp simulate command Source code
 ```c
 #include <stdio.h>
 #include <stdlib.h>
