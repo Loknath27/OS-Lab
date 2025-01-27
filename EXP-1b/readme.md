@@ -1,5 +1,7 @@
 > ## Simulate UNIX commands like cp, ls, grep, etc
-> ### Cp simulate command Source code
+### Program Statemnt: To simulate UNIX command like cp,ls,grep
+### Source Code
+### Cp simulate command Source code
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -29,6 +31,15 @@ simulate_cp(argv[1], argv[2]);
 return EXIT_SUCCESS;
 }
 ```
+### Interpretation of program: 
+1) The program takes the two command-line arguments: source-file and destination-file
+2) It open the source file in read-only mode ("r")
+3) It open the destination file in write only mode("w").
+4) If either file cannot be opened. It prints an error message and exits.
+5) It reads the contents of the source file in chunks of 1024 bytes using fread.
+6) It writes each chunk to the destination file using fwrite.
+7) It writes once the entire source file has been copied, it prints a succes manager
+8) 
 ### Output of the code for cp
 ![ Program output in console](copy.png)
 > ### Simulation code for ls command
@@ -88,4 +99,4 @@ return EXIT_SUCCESS;
 ### Output of the code for grep
 ![ Program output in console](grep.png)
 
-### Result:Thus the study and execution of UNIX commands like cp,ls,grep has been completed successfully
+### Result: Thus the study and execution of UNIX commands like cp,ls,grep has been completed successfully
