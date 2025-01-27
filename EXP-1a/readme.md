@@ -137,3 +137,5 @@
 ![chmod 740 file command output](chmod740file.png)
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](manchmod.png)
+
+### Result: Thus the study of Basic UNIX commands has been completed successfully.
