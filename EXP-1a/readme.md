@@ -262,5 +262,10 @@ sets all rights for user, read only for groups and no rights for others
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](manchmod.png)
 
-> ### Result
+
+
+
+
+
+> ## Result
 > Thus the study of Basic UNIX commands has been completed successfully.
