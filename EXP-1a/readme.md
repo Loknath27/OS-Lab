@@ -122,8 +122,8 @@ Changes permission for the specified file. (r=4, w=2, x=1)
 chmod 740 file
 sets all rights for user, read only for groups and no rights for others
 ```
-# BASIC UNIX COMMANDS PRACTISE OUTPUT
-## GENERAL  COMMANDS OUTPUTS 
+> # BASIC UNIX COMMANDS PRACTISE OUTPUT
+> ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
 ### DATE COMMAND OUTPUT
@@ -174,7 +174,7 @@ sets all rights for user, read only for groups and no rights for others
 ![bc command output](bc.png)
 ### BC - BASIC CALCULATOR COMMAND MANUAL
 ![bc command manual](manbc.png)
-## IP FILE COMMANDS
+> ## IP FILE COMMANDS
 ### HISTORY COMMAND OUTPUT
 ![history command output](history.png)
 ### HISTORY COMMAND MANUAL 
@@ -183,7 +183,7 @@ sets all rights for user, read only for groups and no rights for others
 ![exit command output](exit.png)
 ### EXIT COMMAND MANUAL
 ![exit command manual](manexit.png)
-## DIRECTIORY COMMANDS
+> ## DIRECTIORY COMMANDS
 ### PWD COMMAND OUTPUT
 ![pwd command output](pwd.png)
 ### PWD COMMAND MANUAL
@@ -204,7 +204,7 @@ sets all rights for user, read only for groups and no rights for others
 ![rmdir command output](rmdir.png)
 ### RMDIR COMMAND MANUAL
 ![rmdir command manual](manrmdir.png)
-## FILE COMMANDS
+> ## FILE COMMANDS
 ### CAT COMMAND OUTPUT
 ![cat command output](cat.png)
 ### CAT FILENAME COMMAND OUTPUT
