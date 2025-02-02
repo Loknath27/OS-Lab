@@ -1,5 +1,3 @@
-> # Aim:
->  To Simulate the following CPU scheduling algorithms like a) FCFS b) SJF c) Priority d) Round Robin
 > # Program Statement
 > ## To stimulate CPU Scheduling Algorithms like FCFS, SJF, RR and Priority using C
 >
