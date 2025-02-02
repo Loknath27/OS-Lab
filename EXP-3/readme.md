@@ -308,10 +308,10 @@ int main() {
 > `./exec-name`
 >
 >  # Output of the program
-> ![ Screen Shot 1](op1.png)
-> ![ Screen Shot 2](op2.png)
-> ![ Screen Shot 3](op3.png)
-> ![ Screen Shot 4](op4.png)
+> ![ Screen Shot 1](1.png)
+> ![ Screen Shot 2](2.png)
+> ![ Screen Shot 3](3.png)
+> ![ Screen Shot 4](4.png)
 >
 > # **Conclusion:**
 >
