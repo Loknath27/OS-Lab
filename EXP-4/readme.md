@@ -121,7 +121,7 @@ int main() {
 }
 ```
 # Output
-![Semsphore output](a semaphore.png)
+![Semsphore output](asemaphore.png)
 
 # b) Source Code for Monitors
 ```c
@@ -202,7 +202,7 @@ int main() {
     return 0;
 }
 ```
-![monitor output](b monitor.png)
+![monitor output](bmonitors.png)
 
 # Interpretion of the Program
 
